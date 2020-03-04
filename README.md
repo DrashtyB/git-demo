@@ -1,2 +1,2 @@
 # git-demo
-demo for react
+~demo for react~
